@@ -31,4 +31,4 @@ https://www.bingle.pw/
 
 
 **Direct Link:**  
-https://www.php-proxy.com/download/php-proxy.zip
+(https://github.com/Bingle-Proxy/application/releases/download/1.1.0/Bingle.Proxy_1_1.0.apk)https://github.com/Bingle-Proxy/application/releases/download/1.1.0/Bingle.Proxy_1_1.0.apk
