@@ -2,7 +2,9 @@
 
 Web Proxy Application built on [**Bingle Proxy**](https://github.com/Bingle-Proxy/) ready to be installed on your android device
 
-[Imgur](https://imgur.com/fwnJAp4)
+
+https://github.com/Bingle-Proxy/application/assets/161473759/68001409-9918-40ab-bfbf-fdbba9c1fae4
+
 
 ## Info
 
