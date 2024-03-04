@@ -1,6 +1,6 @@
 # Bingle Proxy
 
-Web Proxy Application built on [**Bingle Proxy**](https://github.com/Bingle-Proxy/) ready to be installed on your android device
+Web Proxy Application built on [**Bingle Proxy**](https://www.bingle.pw/) ready to be installed on your android device
 
 
 https://github.com/Bingle-Proxy/application/assets/161473759/68001409-9918-40ab-bfbf-fdbba9c1fae4
@@ -18,7 +18,7 @@ Bingle Proxy is an online proxy browser app for Android. It can unblock websites
 
 Simple and easy installation of Android
 
-If you want to install, log in from the web version
+If you don't want to install, log in from the web version
 
 https://www.bingle.pw/
 
