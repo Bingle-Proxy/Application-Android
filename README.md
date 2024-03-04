@@ -2,7 +2,7 @@
 
 Web Proxy Application built on [**Bingle Proxy**](https://github.com/Bingle-Proxy/) ready to be installed on your android device
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="fwnJAp4"><a href="https://imgur.com/fwnJAp4">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+[Imgur](https://imgur.com/fwnJAp4)
 
 ## Info
 
