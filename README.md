@@ -12,15 +12,6 @@ If you want to start browsing blocked websites in your country, but you don’t 
 
 Bingle Proxy is an online proxy browser app for Android. It can unblock websites, change your IP and keep you anonymous online.
 
-
-## Web-Proxy vs Proxy Server
-
-Keep in mind that sites/pages that are too script-heavy or with too many "dynamic parts", may not work with this proxy script.
-That is a known limitation of web proxies. For such sites, you should use an actual proxy server to route your browser's HTTP requests through:  
-
-https://www.proxynova.com/proxy-software/
-
-
 ## Installation
 
 Simple and easy installation of Android
