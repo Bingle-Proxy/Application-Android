@@ -25,3 +25,5 @@ https://www.bingle.pw/
 
 **Direct Link:**  
 (https://github.com/Bingle-Proxy/application/releases/download/1.1.0/Bingle.Proxy_1_1.0.apk)
+
+![download_apk fb5c471b](https://github.com/Bingle-Proxy/application/assets/161473759/df236456-cbe5-4b70-9c67-7258ed795a7f)
