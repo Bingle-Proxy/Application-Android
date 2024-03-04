@@ -2,7 +2,7 @@
 
 Web Proxy Application built on [**Bingle Proxy**](https://github.com/Bingle-Proxy/) ready to be installed on your android device
 
-![alt text](https://imgur.com/fwnJAp4 "This is how Bingle Proxy looks when installed")
+[img]https://i.imgur.com/fwnJAp4.mp4[/img]
 
 ## Info
 
