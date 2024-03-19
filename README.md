@@ -9,10 +9,6 @@ https://github.com/Bingle-Proxy/application/assets/161473759/68001409-9918-40ab-
 
 ## Info
 
-How to unblock all websites now even If you believe you can’t or don’t know how!
-
-If you want to start browsing blocked websites in your country, but you don’t know how, here’s some good news:
-
 Bingle Proxy is an online proxy browser app for Android. It can unblock websites, change your IP and keep you anonymous online.
 
 ## Installation
