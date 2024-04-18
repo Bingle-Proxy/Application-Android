@@ -1,10 +1,12 @@
+
+https://github.com/Bingle-Proxy/Application/assets/161473759/2682372e-bb2b-44da-a1a9-8e06f2357785
 # Bingle Proxy android application
 
 
 Web Proxy Application built on [**Bingle Proxy**](https://www.bingle.pw/) ready to be installed on your android device
 
 
-https://github.com/Bingle-Proxy/application/assets/161473759/68001409-9918-40ab-bfbf-fdbba9c1fae4
+https://github.com/Bingle-Proxy/Application/assets/161473759/29867f84-93a3-4896-a8d1-adace87197cc
 
 
 ## Info
