@@ -1,5 +1,4 @@
 
-https://github.com/Bingle-Proxy/Application/assets/161473759/2682372e-bb2b-44da-a1a9-8e06f2357785
 # Bingle Proxy android application
 
 
