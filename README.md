@@ -1,5 +1,5 @@
 
-# Bingle Proxy android application
+# Bingle Proxy For Android
 
 
 Web Proxy Application built on [**Bingle Proxy**](https://www.bingle.pw/) ready to be installed on your android device
