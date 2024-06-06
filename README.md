@@ -11,6 +11,21 @@ Web Proxy Application built on [**Bingle Proxy**](https://www.bingle.pw/) ready 
 ## Info
 
 Bingle Proxy is an online proxy browser app for Android. It can unblock websites, change your IP and keep you anonymous online.
+<div id="donate-button-container">
+<div id="donate-button"></div>
+<script src="https://www.paypalobjects.com/donate/sdk/donate-sdk.js" charset="UTF-8"></script>
+<script>
+PayPal.Donation.Button({
+env:'production',
+hosted_button_id:'ZKEL95KG7QFS2',
+image: {
+src:'https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif',
+alt:'Donate with PayPal button',
+title:'PayPal - The safer, easier way to pay online!',
+}
+}).render('#donate-button');
+</script>
+</div>
 
 
 ## Installation
